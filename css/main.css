@@ -30,6 +30,7 @@ button{
     background-color: rgba(187, 187, 242, 1);
     font-family: 'Oswald', sans-serif;
     font-size: 24px;
+    cursor: pointer;
 }
 .zero{
     width: 107px;
